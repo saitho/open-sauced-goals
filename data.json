@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "TYPO3/typo3",
+    "stargazers_count": 804,
+    "open_issues_count": 5,
+    "forks_count": 539
+  },
+  {
+    "full_name": "drud/ddev",
+    "stargazers_count": 1092,
+    "open_issues_count": 116,
+    "forks_count": 305
+  },
+  {
     "full_name": "go-gitea/gitea",
     "stargazers_count": 26889,
     "open_issues_count": 1852,
