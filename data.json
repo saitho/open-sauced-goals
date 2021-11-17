@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "open-sauced/goals-template",
+    "stargazers_count": 16,
+    "open_issues_count": 4,
+    "forks_count": 5
+  },
+  {
     "full_name": "TYPO3/typo3",
     "stargazers_count": 806,
     "open_issues_count": 5,
@@ -8,13 +14,13 @@
   {
     "full_name": "drud/ddev",
     "stargazers_count": 1108,
-    "open_issues_count": 113,
+    "open_issues_count": 114,
     "forks_count": 305
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 26976,
+    "stargazers_count": 26980,
     "open_issues_count": 1859,
-    "forks_count": 3376
+    "forks_count": 3377
   }
 ]
