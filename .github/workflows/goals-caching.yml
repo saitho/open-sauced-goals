@@ -19,6 +19,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         LOGIN: ${{ github.repository_owner }}
+        ENABLE_CONTRIBUTION_STATS: 1
     - name: Set up Git
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
