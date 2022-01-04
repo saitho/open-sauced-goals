@@ -13,9 +13,9 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1149,
-    "open_issues_count": 116,
-    "forks_count": 315
+    "stargazers_count": 1150,
+    "open_issues_count": 115,
+    "forks_count": 314
   },
   {
     "full_name": "TYPO3/typo3",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "woodpecker-ci/woodpecker",
-    "stargazers_count": 622,
-    "open_issues_count": 112,
-    "forks_count": 78
+    "stargazers_count": 627,
+    "open_issues_count": 117,
+    "forks_count": 79
   },
   {
     "full_name": "saitho/semantic-release-backmerge",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 8759,
-    "open_issues_count": 131,
-    "forks_count": 417
+    "stargazers_count": 8786,
+    "open_issues_count": 132,
+    "forks_count": 423
   },
   {
     "full_name": "auchenberg/volkswagen",
-    "stargazers_count": 12198,
+    "stargazers_count": 12199,
     "open_issues_count": 59,
     "forks_count": 247
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 20122,
-    "open_issues_count": 74,
-    "forks_count": 531
+    "stargazers_count": 20168,
+    "open_issues_count": 75,
+    "forks_count": 532
   },
   {
     "full_name": "mame82/LucaAppIssues",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14778,
-    "open_issues_count": 1608,
-    "forks_count": 3915
+    "stargazers_count": 14782,
+    "open_issues_count": 1571,
+    "forks_count": 3916
   },
   {
     "full_name": "sebinside/WissenschaftlichesSchreiben-Schnelleinstieg",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 11643,
+    "stargazers_count": 11647,
     "open_issues_count": 14,
     "forks_count": 526
   },
   {
     "full_name": "tidbyt/pixlet",
-    "stargazers_count": 171,
-    "open_issues_count": 13,
-    "forks_count": 26
+    "stargazers_count": 176,
+    "open_issues_count": 5,
+    "forks_count": 27
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 1404,
+    "stargazers_count": 1405,
     "open_issues_count": 19,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "kevinpapst/kimai2",
-    "stargazers_count": 1487,
-    "open_issues_count": 195,
-    "forks_count": 345
+    "stargazers_count": 1492,
+    "open_issues_count": 194,
+    "forks_count": 346
   },
   {
     "full_name": "derhansen/sf_event_mgt",
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 7356,
-    "open_issues_count": 65,
+    "stargazers_count": 7360,
+    "open_issues_count": 63,
     "forks_count": 212
   },
   {
     "full_name": "muety/wakapi",
-    "stargazers_count": 638,
-    "open_issues_count": 28,
-    "forks_count": 50
+    "stargazers_count": 650,
+    "open_issues_count": 22,
+    "forks_count": 51
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 1959,
+    "stargazers_count": 1972,
     "open_issues_count": 17,
     "forks_count": 222
   },
   {
     "full_name": "NUKnightLab/TimelineJS3",
-    "stargazers_count": 2368,
+    "stargazers_count": 2370,
     "open_issues_count": 163,
     "forks_count": 542
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "alephjs/aleph.js",
-    "stargazers_count": 3481,
-    "open_issues_count": 60,
+    "stargazers_count": 3490,
+    "open_issues_count": 61,
     "forks_count": 128
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 104145,
-    "open_issues_count": 4981,
-    "forks_count": 6677
+    "stargazers_count": 104276,
+    "open_issues_count": 4996,
+    "forks_count": 6696
   },
   {
     "full_name": "samuelmaddock/metastream",
-    "stargazers_count": 1937,
-    "open_issues_count": 181,
+    "stargazers_count": 1940,
+    "open_issues_count": 182,
     "forks_count": 187
   }
 ]
