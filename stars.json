@@ -1,21 +1,21 @@
 [
   {
     "full_name": "starship/starship",
-    "stargazers_count": 23923,
-    "open_issues_count": 375,
-    "forks_count": 989
+    "stargazers_count": 24074,
+    "open_issues_count": 378,
+    "forks_count": 996
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 8822,
-    "open_issues_count": 1358,
-    "forks_count": 2233
+    "stargazers_count": 8836,
+    "open_issues_count": 1360,
+    "forks_count": 2239
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 1303,
+    "stargazers_count": 1316,
     "open_issues_count": 96,
-    "forks_count": 108
+    "forks_count": 109
   },
   {
     "full_name": "saitho/semantic-release-backmerge",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "agola-io/agola",
-    "stargazers_count": 992,
+    "stargazers_count": 993,
     "open_issues_count": 82,
     "forks_count": 90
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 9758,
-    "open_issues_count": 160,
-    "forks_count": 494
+    "stargazers_count": 9804,
+    "open_issues_count": 175,
+    "forks_count": 497
   },
   {
     "full_name": "susannemoog/typo3-bluescreen",
@@ -62,19 +62,19 @@
   {
     "full_name": "drud/ddev",
     "stargazers_count": 1221,
-    "open_issues_count": 108,
-    "forks_count": 332
+    "open_issues_count": 109,
+    "forks_count": 333
   },
   {
     "full_name": "TYPO3/typo3",
-    "stargazers_count": 837,
+    "stargazers_count": 836,
     "open_issues_count": 5,
     "forks_count": 551
   },
   {
     "full_name": "woodpecker-ci/woodpecker",
-    "stargazers_count": 855,
-    "open_issues_count": 164,
+    "stargazers_count": 862,
+    "open_issues_count": 167,
     "forks_count": 101
   },
   {
@@ -86,26 +86,26 @@
   {
     "full_name": "solid/specification",
     "stargazers_count": 298,
-    "open_issues_count": 165,
+    "open_issues_count": 168,
     "forks_count": 32
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 10889,
-    "open_issues_count": 81,
-    "forks_count": 537
+    "stargazers_count": 10936,
+    "open_issues_count": 94,
+    "forks_count": 545
   },
   {
     "full_name": "auchenberg/volkswagen",
-    "stargazers_count": 12270,
+    "stargazers_count": 12271,
     "open_issues_count": 59,
     "forks_count": 249
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 22600,
-    "open_issues_count": 72,
-    "forks_count": 592
+    "stargazers_count": 22690,
+    "open_issues_count": 73,
+    "forks_count": 594
   },
   {
     "full_name": "mame82/LucaAppIssues",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14845,
-    "open_issues_count": 1546,
-    "forks_count": 3958
+    "stargazers_count": 14846,
+    "open_issues_count": 1535,
+    "forks_count": 3960
   },
   {
     "full_name": "sebinside/WissenschaftlichesSchreiben-Schnelleinstieg",
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 11896,
+    "stargazers_count": 11901,
     "open_issues_count": 14,
     "forks_count": 536
   },
   {
     "full_name": "tidbyt/pixlet",
-    "stargazers_count": 281,
-    "open_issues_count": 26,
-    "forks_count": 44
+    "stargazers_count": 285,
+    "open_issues_count": 29,
+    "forks_count": 45
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 1509,
-    "open_issues_count": 20,
+    "stargazers_count": 1511,
+    "open_issues_count": 21,
     "forks_count": 81
   },
   {
     "full_name": "kevinpapst/kimai2",
-    "stargazers_count": 1629,
+    "stargazers_count": 1637,
     "open_issues_count": 171,
     "forks_count": 368
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 7543,
+    "stargazers_count": 7549,
     "open_issues_count": 71,
     "forks_count": 226
   },
   {
     "full_name": "muety/wakapi",
-    "stargazers_count": 757,
-    "open_issues_count": 24,
-    "forks_count": 64
+    "stargazers_count": 763,
+    "open_issues_count": 27,
+    "forks_count": 65
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 2282,
+    "stargazers_count": 2289,
     "open_issues_count": 28,
-    "forks_count": 267
+    "forks_count": 268
   }
 ]
