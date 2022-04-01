@@ -2,7 +2,7 @@
   {
     "full_name": "hoogi91/charts",
     "stargazers_count": 4,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
@@ -21,18 +21,18 @@
     "full_name": "TYPO3/typo3",
     "stargazers_count": 836,
     "open_issues_count": 5,
-    "forks_count": 552
+    "forks_count": 553
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1221,
-    "open_issues_count": 109,
-    "forks_count": 333
+    "stargazers_count": 1224,
+    "open_issues_count": 113,
+    "forks_count": 334
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 29131,
-    "open_issues_count": 2011,
-    "forks_count": 3655
+    "stargazers_count": 29156,
+    "open_issues_count": 2001,
+    "forks_count": 3660
   }
 ]
