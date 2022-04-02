@@ -1,45 +1,45 @@
 [
   {
     "full_name": "starship/starship",
-    "stargazers_count": 24201,
-    "open_issues_count": 386,
-    "forks_count": 1000
+    "stargazers_count": 24226,
+    "open_issues_count": 382,
+    "forks_count": 1003
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 8869,
-    "open_issues_count": 1370,
-    "forks_count": 2248
+    "stargazers_count": 8872,
+    "open_issues_count": 1376,
+    "forks_count": 2251
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 1337,
-    "open_issues_count": 99,
-    "forks_count": 109
+    "stargazers_count": 1340,
+    "open_issues_count": 105,
+    "forks_count": 110
   },
   {
     "full_name": "saitho/semantic-release-backmerge",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "remotion-dev/trailer",
-    "stargazers_count": 1010,
+    "stargazers_count": 1011,
     "open_issues_count": 0,
     "forks_count": 54
   },
   {
     "full_name": "agola-io/agola",
-    "stargazers_count": 995,
+    "stargazers_count": 997,
     "open_issues_count": 82,
     "forks_count": 90
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 9832,
-    "open_issues_count": 196,
-    "forks_count": 500
+    "stargazers_count": 9841,
+    "open_issues_count": 200,
+    "forks_count": 501
   },
   {
     "full_name": "susannemoog/typo3-bluescreen",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1224,
-    "open_issues_count": 113,
-    "forks_count": 334
+    "stargazers_count": 1225,
+    "open_issues_count": 118,
+    "forks_count": 335
   },
   {
     "full_name": "TYPO3/typo3",
@@ -74,7 +74,7 @@
   {
     "full_name": "woodpecker-ci/woodpecker",
     "stargazers_count": 868,
-    "open_issues_count": 169,
+    "open_issues_count": 170,
     "forks_count": 104
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "solid/specification",
-    "stargazers_count": 299,
-    "open_issues_count": 168,
+    "stargazers_count": 301,
+    "open_issues_count": 169,
     "forks_count": 32
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 11006,
-    "open_issues_count": 98,
-    "forks_count": 549
+    "stargazers_count": 11020,
+    "open_issues_count": 97,
+    "forks_count": 551
   },
   {
     "full_name": "auchenberg/volkswagen",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 22808,
-    "open_issues_count": 72,
-    "forks_count": 598
+    "stargazers_count": 22854,
+    "open_issues_count": 74,
+    "forks_count": 601
   },
   {
     "full_name": "mame82/LucaAppIssues",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "jonasstrehle/supercookie",
-    "stargazers_count": 3734,
+    "stargazers_count": 3737,
     "open_issues_count": 11,
     "forks_count": 205
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14844,
-    "open_issues_count": 1541,
-    "forks_count": 3959
+    "stargazers_count": 14843,
+    "open_issues_count": 1538,
+    "forks_count": 3961
   },
   {
     "full_name": "sebinside/WissenschaftlichesSchreiben-Schnelleinstieg",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 11915,
+    "stargazers_count": 11916,
     "open_issues_count": 14,
     "forks_count": 536
   },
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 1516,
+    "stargazers_count": 1517,
     "open_issues_count": 20,
     "forks_count": 81
   },
   {
     "full_name": "kevinpapst/kimai2",
     "stargazers_count": 1641,
-    "open_issues_count": 167,
+    "open_issues_count": 169,
     "forks_count": 369
   },
   {
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 7554,
+    "stargazers_count": 7559,
     "open_issues_count": 71,
     "forks_count": 228
   },
   {
     "full_name": "muety/wakapi",
-    "stargazers_count": 778,
+    "stargazers_count": 780,
     "open_issues_count": 28,
     "forks_count": 66
   },
