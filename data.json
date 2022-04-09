@@ -3,13 +3,13 @@
     "full_name": "hoogi91/charts",
     "stargazers_count": 4,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 2
   },
   {
     "full_name": "TYPO3-Solr/ext-solr",
     "stargazers_count": 123,
     "open_issues_count": 274,
-    "forks_count": 191
+    "forks_count": 190
   },
   {
     "full_name": "open-sauced/goals-template",
@@ -21,18 +21,18 @@
     "full_name": "TYPO3/typo3",
     "stargazers_count": 839,
     "open_issues_count": 5,
-    "forks_count": 554
+    "forks_count": 555
   },
   {
     "full_name": "drud/ddev",
     "stargazers_count": 1229,
-    "open_issues_count": 115,
+    "open_issues_count": 108,
     "forks_count": 336
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 29243,
+    "stargazers_count": 29257,
     "open_issues_count": 2005,
-    "forks_count": 3678
+    "forks_count": 3682
   }
 ]
