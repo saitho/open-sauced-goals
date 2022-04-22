@@ -13,45 +13,45 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 24646,
-    "open_issues_count": 389,
-    "forks_count": 1032
+    "stargazers_count": 24715,
+    "open_issues_count": 391,
+    "forks_count": 1034
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 9015,
-    "open_issues_count": 1419,
-    "forks_count": 2325
+    "stargazers_count": 9032,
+    "open_issues_count": 1422,
+    "forks_count": 2330
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 1426,
-    "open_issues_count": 106,
-    "forks_count": 115
+    "stargazers_count": 1428,
+    "open_issues_count": 105,
+    "forks_count": 116
   },
   {
     "full_name": "saitho/semantic-release-backmerge",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "remotion-dev/trailer",
-    "stargazers_count": 1013,
+    "stargazers_count": 1012,
     "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "agola-io/agola",
-    "stargazers_count": 1014,
+    "stargazers_count": 1015,
     "open_issues_count": 84,
-    "forks_count": 92
+    "forks_count": 91
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 11078,
-    "open_issues_count": 212,
-    "forks_count": 556
+    "stargazers_count": 11147,
+    "open_issues_count": 234,
+    "forks_count": 566
   },
   {
     "full_name": "susannemoog/typo3-bluescreen",
@@ -73,44 +73,44 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1238,
-    "open_issues_count": 121,
-    "forks_count": 337
+    "stargazers_count": 1239,
+    "open_issues_count": 123,
+    "forks_count": 338
   },
   {
     "full_name": "TYPO3/typo3",
     "stargazers_count": 840,
     "open_issues_count": 5,
-    "forks_count": 555
+    "forks_count": 553
   },
   {
     "full_name": "woodpecker-ci/woodpecker",
-    "stargazers_count": 914,
+    "stargazers_count": 926,
     "open_issues_count": 174,
     "forks_count": 106
   },
   {
     "full_name": "solid/specification",
     "stargazers_count": 309,
-    "open_issues_count": 173,
+    "open_issues_count": 172,
     "forks_count": 32
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 11365,
-    "open_issues_count": 115,
+    "stargazers_count": 11416,
+    "open_issues_count": 105,
     "forks_count": 572
   },
   {
     "full_name": "auchenberg/volkswagen",
-    "stargazers_count": 12280,
+    "stargazers_count": 12281,
     "open_issues_count": 59,
     "forks_count": 248
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 23385,
-    "open_issues_count": 78,
+    "stargazers_count": 23448,
+    "open_issues_count": 77,
     "forks_count": 620
   },
   {
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "jonasstrehle/supercookie",
-    "stargazers_count": 3766,
+    "stargazers_count": 3770,
     "open_issues_count": 11,
-    "forks_count": 208
+    "forks_count": 209
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14833,
-    "open_issues_count": 1499,
+    "stargazers_count": 14838,
+    "open_issues_count": 1502,
     "forks_count": 3971
   },
   {
@@ -139,25 +139,25 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 11962,
+    "stargazers_count": 11970,
     "open_issues_count": 14,
     "forks_count": 537
   },
   {
     "full_name": "tidbyt/pixlet",
     "stargazers_count": 301,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 51
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 1540,
+    "stargazers_count": 1548,
     "open_issues_count": 20,
     "forks_count": 82
   },
   {
     "full_name": "kevinpapst/kimai2",
-    "stargazers_count": 1661,
+    "stargazers_count": 1663,
     "open_issues_count": 170,
     "forks_count": 374
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 7597,
+    "stargazers_count": 7601,
     "open_issues_count": 57,
-    "forks_count": 229
+    "forks_count": 230
   },
   {
     "full_name": "muety/wakapi",
-    "stargazers_count": 818,
+    "stargazers_count": 821,
     "open_issues_count": 27,
-    "forks_count": 65
+    "forks_count": 64
   }
 ]
