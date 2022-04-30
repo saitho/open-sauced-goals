@@ -19,38 +19,38 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 25856,
-    "open_issues_count": 398,
+    "stargazers_count": 25888,
+    "open_issues_count": 400,
     "forks_count": 1069
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 9105,
-    "open_issues_count": 1440,
-    "forks_count": 2354
+    "stargazers_count": 9116,
+    "open_issues_count": 1433,
+    "forks_count": 2360
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 1466,
-    "open_issues_count": 118,
+    "stargazers_count": 1468,
+    "open_issues_count": 120,
     "forks_count": 118
   },
   {
     "full_name": "remotion-dev/trailer",
-    "stargazers_count": 1012,
+    "stargazers_count": 1013,
     "open_issues_count": 0,
     "forks_count": 53
   },
   {
     "full_name": "agola-io/agola",
-    "stargazers_count": 1022,
+    "stargazers_count": 1023,
     "open_issues_count": 86,
     "forks_count": 91
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 11312,
-    "open_issues_count": 245,
+    "stargazers_count": 11326,
+    "open_issues_count": 252,
     "forks_count": 586
   },
   {
@@ -67,50 +67,50 @@
   },
   {
     "full_name": "Dragicafit/Anime-Watch-Parties",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1240,
-    "open_issues_count": 120,
+    "stargazers_count": 1242,
+    "open_issues_count": 121,
     "forks_count": 339
   },
   {
     "full_name": "TYPO3/typo3",
     "stargazers_count": 843,
     "open_issues_count": 5,
-    "forks_count": 555
+    "forks_count": 556
   },
   {
     "full_name": "woodpecker-ci/woodpecker",
-    "stargazers_count": 949,
-    "open_issues_count": 176,
-    "forks_count": 108
+    "stargazers_count": 952,
+    "open_issues_count": 173,
+    "forks_count": 109
   },
   {
     "full_name": "solid/specification",
-    "stargazers_count": 311,
-    "open_issues_count": 172,
+    "stargazers_count": 312,
+    "open_issues_count": 173,
     "forks_count": 32
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 11510,
-    "open_issues_count": 136,
-    "forks_count": 572
+    "stargazers_count": 11528,
+    "open_issues_count": 131,
+    "forks_count": 573
   },
   {
     "full_name": "auchenberg/volkswagen",
-    "stargazers_count": 12286,
+    "stargazers_count": 12291,
     "open_issues_count": 59,
     "forks_count": 248
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 23685,
-    "open_issues_count": 73,
+    "stargazers_count": 23732,
+    "open_issues_count": 74,
     "forks_count": 627
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "jonasstrehle/supercookie",
-    "stargazers_count": 3780,
+    "stargazers_count": 3781,
     "open_issues_count": 12,
     "forks_count": 211
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14841,
+    "stargazers_count": 14842,
     "open_issues_count": 1476,
-    "forks_count": 3975
+    "forks_count": 3977
   },
   {
     "full_name": "sebinside/WissenschaftlichesSchreiben-Schnelleinstieg",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "tidbyt/pixlet",
-    "stargazers_count": 318,
+    "stargazers_count": 319,
     "open_issues_count": 27,
     "forks_count": 52
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 1563,
+    "stargazers_count": 1565,
     "open_issues_count": 20,
     "forks_count": 82
   },
   {
     "full_name": "kevinpapst/kimai2",
     "stargazers_count": 1667,
-    "open_issues_count": 160,
+    "open_issues_count": 159,
     "forks_count": 376
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "nodegui/nodegui",
-    "stargazers_count": 7612,
+    "stargazers_count": 7611,
     "open_issues_count": 59,
     "forks_count": 230
   },
   {
     "full_name": "muety/wakapi",
-    "stargazers_count": 833,
-    "open_issues_count": 25,
+    "stargazers_count": 834,
+    "open_issues_count": 26,
     "forks_count": 66
   }
 ]
