@@ -1,15 +1,15 @@
 [
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 4280,
+    "stargazers_count": 4316,
     "open_issues_count": 35,
-    "forks_count": 317
+    "forks_count": 320
   },
   {
     "full_name": "capricorn86/happy-dom",
-    "stargazers_count": 971,
-    "open_issues_count": 39,
-    "forks_count": 37
+    "stargazers_count": 973,
+    "open_issues_count": 40,
+    "forks_count": 38
   },
   {
     "full_name": "saitho/semantic-release-backmerge",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 26176,
+    "stargazers_count": 26207,
     "open_issues_count": 394,
-    "forks_count": 1078
+    "forks_count": 1080
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 9199,
-    "open_issues_count": 1444,
-    "forks_count": 2390
+    "stargazers_count": 9210,
+    "open_issues_count": 1445,
+    "forks_count": 2393
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 1569,
-    "open_issues_count": 119,
-    "forks_count": 119
+    "stargazers_count": 1578,
+    "open_issues_count": 115,
+    "forks_count": 120
   },
   {
     "full_name": "remotion-dev/trailer",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "agola-io/agola",
-    "stargazers_count": 1031,
+    "stargazers_count": 1030,
     "open_issues_count": 86,
     "forks_count": 91
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 11492,
-    "open_issues_count": 247,
-    "forks_count": 595
+    "stargazers_count": 11508,
+    "open_issues_count": 245,
+    "forks_count": 598
   },
   {
     "full_name": "susannemoog/typo3-bluescreen",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1249,
-    "open_issues_count": 127,
+    "stargazers_count": 1253,
+    "open_issues_count": 122,
     "forks_count": 341
   },
   {
@@ -98,30 +98,30 @@
   {
     "full_name": "woodpecker-ci/woodpecker",
     "stargazers_count": 972,
-    "open_issues_count": 176,
+    "open_issues_count": 178,
     "forks_count": 108
   },
   {
     "full_name": "solid/specification",
-    "stargazers_count": 315,
-    "open_issues_count": 172,
+    "stargazers_count": 316,
+    "open_issues_count": 173,
     "forks_count": 32
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 11711,
-    "open_issues_count": 151,
+    "stargazers_count": 11727,
+    "open_issues_count": 94,
     "forks_count": 586
   },
   {
     "full_name": "auchenberg/volkswagen",
-    "stargazers_count": 12301,
+    "stargazers_count": 12302,
     "open_issues_count": 59,
     "forks_count": 248
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 23987,
+    "stargazers_count": 24041,
     "open_issues_count": 75,
     "forks_count": 631
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "jonasstrehle/supercookie",
-    "stargazers_count": 3793,
+    "stargazers_count": 3795,
     "open_issues_count": 12,
     "forks_count": 214
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14851,
+    "stargazers_count": 14853,
     "open_issues_count": 1465,
     "forks_count": 3985
   },
@@ -151,27 +151,27 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 12032,
+    "stargazers_count": 12034,
     "open_issues_count": 15,
     "forks_count": 539
   },
   {
     "full_name": "tidbyt/pixlet",
-    "stargazers_count": 329,
-    "open_issues_count": 17,
+    "stargazers_count": 332,
+    "open_issues_count": 20,
     "forks_count": 53
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 1593,
+    "stargazers_count": 1594,
     "open_issues_count": 20,
     "forks_count": 84
   },
   {
     "full_name": "kevinpapst/kimai2",
-    "stargazers_count": 1679,
+    "stargazers_count": 1685,
     "open_issues_count": 165,
-    "forks_count": 378
+    "forks_count": 379
   },
   {
     "full_name": "derhansen/sf_event_mgt",
