@@ -1,20 +1,20 @@
 [
   {
     "full_name": "PLhery/node-twitter-api-v2",
-    "stargazers_count": 527,
+    "stargazers_count": 531,
     "open_issues_count": 5,
     "forks_count": 64
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 4522,
-    "open_issues_count": 45,
-    "forks_count": 342
+    "stargazers_count": 4545,
+    "open_issues_count": 46,
+    "forks_count": 343
   },
   {
     "full_name": "capricorn86/happy-dom",
-    "stargazers_count": 1016,
-    "open_issues_count": 42,
+    "stargazers_count": 1028,
+    "open_issues_count": 41,
     "forks_count": 39
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 26515,
-    "open_issues_count": 406,
-    "forks_count": 1092
+    "stargazers_count": 26546,
+    "open_issues_count": 409,
+    "forks_count": 1094
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 9357,
-    "open_issues_count": 1499,
-    "forks_count": 2434
+    "stargazers_count": 9378,
+    "open_issues_count": 1508,
+    "forks_count": 2438
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 1635,
+    "stargazers_count": 1639,
     "open_issues_count": 116,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "remotion-dev/trailer",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "agola-io/agola",
-    "stargazers_count": 1044,
-    "open_issues_count": 85,
+    "stargazers_count": 1046,
+    "open_issues_count": 86,
     "forks_count": 91
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 11705,
-    "open_issues_count": 256,
-    "forks_count": 624
+    "stargazers_count": 11735,
+    "open_issues_count": 260,
+    "forks_count": 629
   },
   {
     "full_name": "susannemoog/typo3-bluescreen",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1266,
-    "open_issues_count": 122,
-    "forks_count": 351
+    "stargazers_count": 1270,
+    "open_issues_count": 117,
+    "forks_count": 352
   },
   {
     "full_name": "TYPO3/typo3",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "woodpecker-ci/woodpecker",
-    "stargazers_count": 1020,
-    "open_issues_count": 187,
+    "stargazers_count": 1024,
+    "open_issues_count": 189,
     "forks_count": 111
   },
   {
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 12019,
-    "open_issues_count": 70,
-    "forks_count": 605
+    "stargazers_count": 12050,
+    "open_issues_count": 75,
+    "forks_count": 607
   },
   {
     "full_name": "auchenberg/volkswagen",
-    "stargazers_count": 12308,
+    "stargazers_count": 12311,
     "open_issues_count": 59,
-    "forks_count": 248
+    "forks_count": 249
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 24487,
-    "open_issues_count": 73,
-    "forks_count": 648
+    "stargazers_count": 24561,
+    "open_issues_count": 77,
+    "forks_count": 650
   },
   {
     "full_name": "mame82/LucaAppIssues",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "jonasstrehle/supercookie",
-    "stargazers_count": 3811,
+    "stargazers_count": 3816,
     "open_issues_count": 12,
     "forks_count": 214
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14859,
-    "open_issues_count": 1475,
-    "forks_count": 3992
+    "stargazers_count": 14858,
+    "open_issues_count": 1477,
+    "forks_count": 3994
   },
   {
     "full_name": "sebinside/WissenschaftlichesSchreiben-Schnelleinstieg",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 12078,
+    "stargazers_count": 12084,
     "open_issues_count": 15,
     "forks_count": 544
   },
   {
     "full_name": "tidbyt/pixlet",
     "stargazers_count": 338,
-    "open_issues_count": 26,
+    "open_issues_count": 28,
     "forks_count": 55
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 1663,
+    "stargazers_count": 1669,
     "open_issues_count": 22,
     "forks_count": 86
   },
   {
     "full_name": "kevinpapst/kimai2",
-    "stargazers_count": 1701,
-    "open_issues_count": 160,
+    "stargazers_count": 1704,
+    "open_issues_count": 162,
     "forks_count": 381
   }
 ]
