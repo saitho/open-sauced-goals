@@ -21,18 +21,18 @@
     "full_name": "TYPO3/typo3",
     "stargazers_count": 846,
     "open_issues_count": 6,
-    "forks_count": 562
+    "forks_count": 563
   },
   {
     "full_name": "drud/ddev",
     "stargazers_count": 1274,
-    "open_issues_count": 117,
+    "open_issues_count": 119,
     "forks_count": 354
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 30102,
-    "open_issues_count": 1817,
-    "forks_count": 3797
+    "stargazers_count": 30159,
+    "open_issues_count": 1827,
+    "forks_count": 3803
   }
 ]
