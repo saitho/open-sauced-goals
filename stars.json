@@ -1,33 +1,33 @@
 [
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 13885,
-    "open_issues_count": 360,
-    "forks_count": 679
+    "stargazers_count": 13921,
+    "open_issues_count": 354,
+    "forks_count": 684
   },
   {
     "full_name": "Aegisub/Aegisub",
-    "stargazers_count": 1755,
+    "stargazers_count": 1757,
     "open_issues_count": 158,
     "forks_count": 309
   },
   {
     "full_name": "PLhery/node-twitter-api-v2",
-    "stargazers_count": 565,
+    "stargazers_count": 568,
     "open_issues_count": 7,
     "forks_count": 73
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 4726,
-    "open_issues_count": 60,
-    "forks_count": 361
+    "stargazers_count": 4729,
+    "open_issues_count": 62,
+    "forks_count": 360
   },
   {
     "full_name": "capricorn86/happy-dom",
-    "stargazers_count": 1089,
-    "open_issues_count": 47,
-    "forks_count": 44
+    "stargazers_count": 1092,
+    "open_issues_count": 49,
+    "forks_count": 45
   },
   {
     "full_name": "saitho/semantic-release-backmerge",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 26847,
-    "open_issues_count": 410,
-    "forks_count": 1115
+    "stargazers_count": 26866,
+    "open_issues_count": 408,
+    "forks_count": 1124
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 9585,
-    "open_issues_count": 1533,
-    "forks_count": 2505
+    "stargazers_count": 9606,
+    "open_issues_count": 1552,
+    "forks_count": 2514
   },
   {
     "full_name": "goauthentik/authentik",
-    "stargazers_count": 1761,
-    "open_issues_count": 126,
-    "forks_count": 131
+    "stargazers_count": 1773,
+    "open_issues_count": 127,
+    "forks_count": 132
   },
   {
     "full_name": "remotion-dev/trailer",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "agola-io/agola",
-    "stargazers_count": 1062,
+    "stargazers_count": 1063,
     "open_issues_count": 80,
     "forks_count": 91
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 12372,
+    "stargazers_count": 12433,
     "open_issues_count": 263,
-    "forks_count": 662
+    "forks_count": 664
   },
   {
     "full_name": "susannemoog/typo3-bluescreen",
@@ -103,45 +103,45 @@
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1289,
-    "open_issues_count": 125,
-    "forks_count": 362
+    "stargazers_count": 1296,
+    "open_issues_count": 118,
+    "forks_count": 363
   },
   {
     "full_name": "TYPO3/typo3",
-    "stargazers_count": 852,
+    "stargazers_count": 854,
     "open_issues_count": 6,
-    "forks_count": 568
+    "forks_count": 569
   },
   {
     "full_name": "woodpecker-ci/woodpecker",
-    "stargazers_count": 1100,
-    "open_issues_count": 192,
-    "forks_count": 112
+    "stargazers_count": 1103,
+    "open_issues_count": 185,
+    "forks_count": 113
   },
   {
     "full_name": "solid/specification",
-    "stargazers_count": 329,
+    "stargazers_count": 330,
     "open_issues_count": 177,
     "forks_count": 32
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 12357,
-    "open_issues_count": 75,
-    "forks_count": 637
+    "stargazers_count": 12392,
+    "open_issues_count": 84,
+    "forks_count": 641
   },
   {
     "full_name": "auchenberg/volkswagen",
-    "stargazers_count": 12331,
+    "stargazers_count": 12330,
     "open_issues_count": 59,
     "forks_count": 249
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 25053,
-    "open_issues_count": 86,
-    "forks_count": 664
+    "stargazers_count": 25137,
+    "open_issues_count": 84,
+    "forks_count": 665
   },
   {
     "full_name": "mame82/LucaAppIssues",
@@ -151,14 +151,14 @@
   },
   {
     "full_name": "jonasstrehle/supercookie",
-    "stargazers_count": 3855,
+    "stargazers_count": 3856,
     "open_issues_count": 13,
     "forks_count": 219
   },
   {
     "full_name": "ampproject/amphtml",
     "stargazers_count": 14861,
-    "open_issues_count": 1494,
+    "open_issues_count": 1495,
     "forks_count": 3995
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 12225,
+    "stargazers_count": 12229,
     "open_issues_count": 16,
     "forks_count": 548
   },
   {
     "full_name": "tidbyt/pixlet",
-    "stargazers_count": 343,
+    "stargazers_count": 344,
     "open_issues_count": 21,
     "forks_count": 55
   }
