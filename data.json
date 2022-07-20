@@ -8,7 +8,7 @@
   {
     "full_name": "TYPO3-Solr/ext-solr",
     "stargazers_count": 122,
-    "open_issues_count": 262,
+    "open_issues_count": 263,
     "forks_count": 198
   },
   {
@@ -21,18 +21,18 @@
     "full_name": "TYPO3/typo3",
     "stargazers_count": 864,
     "open_issues_count": 6,
-    "forks_count": 573
+    "forks_count": 572
   },
   {
     "full_name": "drud/ddev",
-    "stargazers_count": 1336,
-    "open_issues_count": 123,
-    "forks_count": 367
+    "stargazers_count": 1338,
+    "open_issues_count": 126,
+    "forks_count": 369
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 31039,
-    "open_issues_count": 1875,
-    "forks_count": 3905
+    "stargazers_count": 31056,
+    "open_issues_count": 1885,
+    "forks_count": 3909
   }
 ]
